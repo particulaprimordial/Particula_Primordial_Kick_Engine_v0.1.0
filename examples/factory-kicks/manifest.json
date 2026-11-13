@@ -1,0 +1,219 @@
+{
+  "project": "Particula Primordial Kick Engine",
+  "version": "0.2.0",
+  "sample_rate": 48000,
+  "format": "32-bit float mono WAV",
+  "generation_seed_rule": "seed = 1716 + 1-based preset index",
+  "samples": [
+    {
+      "preset": "01 \u00b7 Rounded Chest",
+      "file": "PP_Factory_01_Rounded_Chest.wav",
+      "parameters": {
+        "sample_rate": 48000,
+        "duration": 1.4,
+        "start_freq": 142.0,
+        "end_freq": 47.0,
+        "pitch_decay_ms": 48.0,
+        "pitch_curve": 1.0,
+        "body": 0.94,
+        "sub": 0.28,
+        "harmonics": 0.1,
+        "harmonic_tilt": 1.7,
+        "attack_ms": 2.5,
+        "decay_ms": 560.0,
+        "transient": 0.07,
+        "transient_tone": 1650.0,
+        "transient_decay_ms": 9.0,
+        "saturation": 0.1,
+        "output_db": -1.0
+      },
+      "analysis": {
+        "peak_dbfs": -1.0000002900227403,
+        "rms_dbfs": -8.223916318495055,
+        "crest_db": 7.223916028472316,
+        "spectral_centroid_hz": 60.41163526740284,
+        "band_energy_pct": {
+          "20_60_hz": 99.66621108649643,
+          "60_120_hz": 0.08268554457816277,
+          "120_250_hz": 0.2504886073064354,
+          "250_1000_hz": 0.0006147610166120663,
+          "1k_5k_hz": 5.953541356266975e-10,
+          "5k_12k_hz": 7.004872980937836e-12
+        },
+        "decay": {
+          "t_minus_6_db_ms": 335.0,
+          "t_minus_20_db_ms": 1300.0,
+          "t_minus_40_db_ms": null
+        }
+      }
+    },
+    {
+      "preset": "02 \u00b7 Velvet Pressure",
+      "file": "PP_Factory_02_Velvet_Pressure.wav",
+      "parameters": {
+        "sample_rate": 48000,
+        "duration": 1.55,
+        "start_freq": 126.0,
+        "end_freq": 43.0,
+        "pitch_decay_ms": 58.0,
+        "pitch_curve": 1.0,
+        "body": 0.96,
+        "sub": 0.34,
+        "harmonics": 0.08,
+        "harmonic_tilt": 1.9,
+        "attack_ms": 3.5,
+        "decay_ms": 640.0,
+        "transient": 0.045,
+        "transient_tone": 1250.0,
+        "transient_decay_ms": 11.0,
+        "saturation": 0.08,
+        "output_db": -1.0
+      },
+      "analysis": {
+        "peak_dbfs": -1.0000002900227403,
+        "rms_dbfs": -8.411242984880204,
+        "crest_db": 7.411242694857464,
+        "spectral_centroid_hz": 53.44340128683864,
+        "band_energy_pct": {
+          "20_60_hz": 99.74893231039468,
+          "60_120_hz": 0.08299645477968122,
+          "120_250_hz": 0.16788599765316728,
+          "250_1000_hz": 0.00018523692640775037,
+          "1k_5k_hz": 2.418893566056102e-10,
+          "5k_12k_hz": 4.152515220852108e-12
+        },
+        "decay": {
+          "t_minus_6_db_ms": 335.0,
+          "t_minus_20_db_ms": 1395.0,
+          "t_minus_40_db_ms": null
+        }
+      }
+    },
+    {
+      "preset": "03 \u00b7 Controlled Punch",
+      "file": "PP_Factory_03_Controlled_Punch.wav",
+      "parameters": {
+        "sample_rate": 48000,
+        "duration": 1.05,
+        "start_freq": 176.0,
+        "end_freq": 52.0,
+        "pitch_decay_ms": 31.0,
+        "pitch_curve": 1.0,
+        "body": 0.84,
+        "sub": 0.18,
+        "harmonics": 0.22,
+        "harmonic_tilt": 1.2,
+        "attack_ms": 1.2,
+        "decay_ms": 390.0,
+        "transient": 0.2,
+        "transient_tone": 2800.0,
+        "transient_decay_ms": 5.0,
+        "saturation": 0.17,
+        "output_db": -1.0
+      },
+      "analysis": {
+        "peak_dbfs": -1.0000002900227403,
+        "rms_dbfs": -7.775132221618617,
+        "crest_db": 6.775131931595877,
+        "spectral_centroid_hz": 82.69676754719772,
+        "band_energy_pct": {
+          "20_60_hz": 98.66357971941692,
+          "60_120_hz": 0.598297464323035,
+          "120_250_hz": 0.6855160265142123,
+          "250_1000_hz": 0.05260675734762419,
+          "1k_5k_hz": 3.23795231954929e-08,
+          "5k_12k_hz": 1.8713271770378702e-11
+        },
+        "decay": {
+          "t_minus_6_db_ms": 340.0,
+          "t_minus_20_db_ms": 959.9999999999999,
+          "t_minus_40_db_ms": null
+        }
+      }
+    },
+    {
+      "preset": "04 \u00b7 Organic Pulse",
+      "file": "PP_Factory_04_Organic_Pulse.wav",
+      "parameters": {
+        "sample_rate": 48000,
+        "duration": 1.75,
+        "start_freq": 118.0,
+        "end_freq": 49.0,
+        "pitch_decay_ms": 72.0,
+        "pitch_curve": 0.86,
+        "body": 0.91,
+        "sub": 0.2,
+        "harmonics": 0.17,
+        "harmonic_tilt": 1.5,
+        "attack_ms": 4.0,
+        "decay_ms": 720.0,
+        "transient": 0.09,
+        "transient_tone": 1850.0,
+        "transient_decay_ms": 13.0,
+        "saturation": 0.06,
+        "output_db": -1.0
+      },
+      "analysis": {
+        "peak_dbfs": -1.0000002900227403,
+        "rms_dbfs": -8.980386070290411,
+        "crest_db": 7.980385780267671,
+        "spectral_centroid_hz": 68.35535094422097,
+        "band_energy_pct": {
+          "20_60_hz": 99.49208044114847,
+          "60_120_hz": 0.27747297821817707,
+          "120_250_hz": 0.22729688274229648,
+          "250_1000_hz": 0.0031496965782843713,
+          "1k_5k_hz": 1.2953873410828406e-09,
+          "5k_12k_hz": 1.7375343238882215e-11
+        },
+        "decay": {
+          "t_minus_6_db_ms": 444.99999999999994,
+          "t_minus_20_db_ms": 1650.0,
+          "t_minus_40_db_ms": null
+        }
+      }
+    },
+    {
+      "preset": "05 \u00b7 Deep Ritual",
+      "file": "PP_Factory_05_Deep_Ritual.wav",
+      "parameters": {
+        "sample_rate": 48000,
+        "duration": 2.0,
+        "start_freq": 154.0,
+        "end_freq": 39.0,
+        "pitch_decay_ms": 52.0,
+        "pitch_curve": 1.0,
+        "body": 0.89,
+        "sub": 0.42,
+        "harmonics": 0.07,
+        "harmonic_tilt": 2.0,
+        "attack_ms": 3.0,
+        "decay_ms": 820.0,
+        "transient": 0.05,
+        "transient_tone": 1400.0,
+        "transient_decay_ms": 10.0,
+        "saturation": 0.11,
+        "output_db": -1.0
+      },
+      "analysis": {
+        "peak_dbfs": -1.0000002900227403,
+        "rms_dbfs": -8.14846639908403,
+        "crest_db": 7.14846610906129,
+        "spectral_centroid_hz": 47.925215603635394,
+        "band_energy_pct": {
+          "20_60_hz": 99.68841705157175,
+          "60_120_hz": 0.30217784806741604,
+          "120_250_hz": 0.009314378175316386,
+          "250_1000_hz": 9.072209630332221e-05,
+          "1k_5k_hz": 8.830130379809612e-11,
+          "5k_12k_hz": 9.532940685536393e-13
+        },
+        "decay": {
+          "t_minus_6_db_ms": 139.99999999999997,
+          "t_minus_20_db_ms": 1530.0,
+          "t_minus_40_db_ms": null
+        }
+      }
+    }
+  ]
+}

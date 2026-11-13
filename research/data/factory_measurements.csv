@@ -1,0 +1,6 @@
+sample,file,sample_rate_hz,duration_ms,peak_dbfs,rms_dbfs,crest_factor_db,spectral_centroid_hz,dominant_frequency_hz,energy_20_60_hz_pct,energy_60_120_hz_pct,energy_120_250_hz_pct,energy_250_1000_hz_pct,energy_1k_5k_hz_pct,energy_5k_12k_hz_pct,time_to_minus_6db_ms,time_to_minus_20db_ms,time_to_minus_40db_ms
+01 Rounded Chest,PP_Factory_01_Rounded_Chest.wav,48000,1400.0,-1.0,-8.2239,7.2239,60.412,47.143,99.6662,0.0827,0.2505,0.0006,0.0,0.0,335.0,1300.0,
+02 Velvet Pressure,PP_Factory_02_Velvet_Pressure.wav,48000,1550.0,-1.0,-8.4112,7.4112,53.443,43.226,99.7489,0.083,0.1679,0.0002,0.0,0.0,335.0,1395.0,
+03 Controlled Punch,PP_Factory_03_Controlled_Punch.wav,48000,1050.0,-1.0,-7.7751,6.7751,82.697,52.381,98.6636,0.5983,0.6855,0.0526,0.0,0.0,340.0,960.0,
+04 Organic Pulse,PP_Factory_04_Organic_Pulse.wav,48000,1750.0,-1.0,-8.9804,7.9804,68.355,49.143,99.4921,0.2775,0.2273,0.0031,0.0,0.0,445.0,1650.0,
+05 Deep Ritual,PP_Factory_05_Deep_Ritual.wav,48000,2000.0,-1.0,-8.1485,7.1485,47.925,39.0,99.6884,0.3022,0.0093,0.0001,0.0,0.0,140.0,1530.0,

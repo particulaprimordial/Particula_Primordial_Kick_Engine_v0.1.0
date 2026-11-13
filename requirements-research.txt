@@ -1,0 +1,2 @@
+# Optional dependency used only to regenerate the static paper figures.
+matplotlib>=3.8,<4.0
